@@ -1,0 +1,11 @@
+node_modules/
+.clasprc.json
+.env
+*.log
+
+# IDs del proyecto real de Apps Script: cada uno usa los suyos (ver .clasp.json.example)
+.clasp.json
+
+# Notas de trabajo locales
+CLAUDE.md
+.claude/

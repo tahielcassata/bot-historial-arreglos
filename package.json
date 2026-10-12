@@ -1,0 +1,13 @@
+{
+  "name": "bot-historial-arreglos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bot de Telegram para registrar y consultar arreglos de una bicicletería, con Google Sheets y Google Apps Script.",
+  "scripts": {
+    "test": "node test/simulador.test.js",
+    "bajar": "clasp pull",
+    "subir": "clasp push"
+  },
+  "author": "Tahiel Cassata",
+  "license": "UNLICENSED"
+}
