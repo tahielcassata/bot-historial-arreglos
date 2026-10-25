@@ -117,3 +117,7 @@ clasp create-deployment --deploymentId <ID> --description "qué cambió"
 ## Tecnologías
 
 Google Apps Script (JavaScript V8) · Google Sheets · Google Drive · Telegram Bot API · Node.js (pruebas) · clasp
+
+## Licencia
+
+© 2026 Tahiel Cassata. **Todos los derechos reservados.** El código está publicado para que se pueda ver como parte de mi portfolio, pero no está permitido usarlo, copiarlo, instalarlo para terceros ni venderlo sin mi autorización por escrito. Ver [LICENSE](LICENSE).
